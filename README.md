@@ -370,7 +370,7 @@ The project implements three main architectural approaches:
 
 ---
 
-## 👥 Authors
+##  Authors
 
 ### Development Team
 
@@ -385,7 +385,7 @@ The project implements three main architectural approaches:
 ---
 
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -399,7 +399,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 ### Dataset & Resources
 - **METR-LA Dataset**: CMU Parallel Data Lab, ParlAI team
